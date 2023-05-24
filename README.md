@@ -1,3 +1,5 @@
+> _This work is no longer maintained, I don't write code in ABAP any longer. From what I can see, some inspiration was taken from this work which has superceded this [at this repo over here](https://github.com/xinitrc86/zthread) (though some credit might be missing :disappointed_relieved::wink:, however, at least their work is maintained and usable by the community which is great)_
+
 # ABAP Parallel Objects
 See documentation currently at SCN  
 http://scn.sap.com/community/abap/blog/2013/07/16/parallel-abap-objects
